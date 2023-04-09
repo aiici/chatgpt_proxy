@@ -3,12 +3,12 @@
  **腾讯云-云函数** 
  通过腾讯云函数可以实现搭建一个代理服务。
   **操作步骤** 
-  打开https://console.cloud.tencent.com/scf/list，选择新建
+  打开https://console.cloud.tencent.com/scf/list;选择新建
   
 ![lg949nmy.png](https://aiici.top/usr/uploads/2023/04/2529863456.png)
 选择从头开始
 ![lg94auww.png](https://aiici.top/usr/uploads/2023/04/3955830533.png)
-根据如图所示内容填写，选择web函数，地域建议国外，环境选择node16.13，然后选择本地zip包上传。包地址：https://github.com/aiici/chatgpt_proxy，现在zip包后上传。
+根据如图所示内容填写，选择web函数，地域建议国外，环境选择node16.13，然后选择本地zip包上传。包地址：https://github.com/aiici/chatgpt_proxy;现在zip包后上传。
 ![lg94ht0z.png](https://aiici.top/usr/uploads/2023/04/3931013270.png)
 高级配置设置请求多并发
 ![lg94nlxj.png](https://aiici.top/usr/uploads/2023/04/567264616.png)
